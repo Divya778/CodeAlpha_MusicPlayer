@@ -1,0 +1,16 @@
+.music-player {
+    /* Your desired styles for the player */
+  }
+  
+  #audio-player {
+    /* Hide the audio element */
+    display: none;
+  }
+  
+  .controls, .song-info {
+    /* Styles for the controls and song info */
+  }
+  
+  #play-pause, #volume-control {
+    /* Styles for the buttons and slider */
+  }
